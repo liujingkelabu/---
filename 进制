@@ -1,0 +1,5 @@
+num = input("请输入任意自然数：")
+num = int(num)
+print(bin(num))     #二进制
+print(oct(num))     #十进制
+print(hex(num))     #十六进制
